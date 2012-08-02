@@ -2,7 +2,7 @@
 # 1 Aug 2012
 # simple analysis for ESA2012
 # all nbinom
-# all 
+# all except m0 have model per capita galling rate
 
 
 library(bbmle)
